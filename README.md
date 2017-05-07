@@ -1,2 +1,2 @@
 # java3poz
-Programowanie I
+Programowanie I - poziom podstawowy
